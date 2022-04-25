@@ -1,4 +1,4 @@
-# Thesis
+# Thesis Appendix
 Appendix A - Max_Take4_FastLED
 Appendix B - USB_MIDI_Fretboard
 Appendix C - XPOS.h
